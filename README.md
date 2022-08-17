@@ -6,19 +6,19 @@
 <a href="https://twitter.com/LNSD_es">
   <img align="left" alt="Lorenzo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:lorenzodelgado.dev@gmail.com">
-  <img align="left" alt="Personal Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:lnsdev@proton.me">
+  <img align="left" alt="Professional Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
 <br>
 
-I'm a Senior Software Developer based in Valencia, Spain.
+I'm a Backend Software Developer based in Valencia, Spain.
 <br>
 
 - 😄 Pronouns: he/him
-- 🏢 I'm currently working full-time at Zscaler
-- 🌱 Learning more about and studying: System programming, Messaging systems, Performance, Team building
-- 💬 Ask me about: Web technologies, Clean and scalable code, Signal processing
+- 🏢 I'm currently working remotely at Status.im
+- 🌱 Learning about: System programming, Messaging systems, Performance, Rust
+- 💬 Ask me about: Web technologies, Clean and scalable code, Software testing, Signal processing
 - 🧑‍🏫 I enjoy mentoring and sharing my knowledge
 
 ### My tech stack
