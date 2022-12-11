@@ -22,7 +22,6 @@ I'm a Backend Software Developer based in Valencia, Spain.
 - 🏢 I'm currently working remotely at Status.im
 - 🌱 Learning about: System programming, Dsitributed computing, Rust
 - 💬 Ask me about: Web technologies, Clean and scalable code, Software testing, Signal processing
-- 🧑‍🏫 I enjoy mentoring and sharing my knowledge
 
 ### My tech stack
 
