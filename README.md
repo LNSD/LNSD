@@ -19,17 +19,17 @@ I'm a Backend Software Developer based in Valencia, Spain.
 <br>
 
 - 😄 Pronouns: he/him
-- 🏢 I'm currently working remotely at Status.im
-- 🌱 Learning about: System programming, Dsitributed computing, Rust
-- 💬 Ask me about: Web technologies, Clean and scalable code, Software testing, Signal processing
+- 🏢 I'm currently working remotely as **Rust Developer** at [@edgeandnode](https://github.com/edgeandnode)
+- 🌱 Learning about: WebAssembly, Rust, Distributed systems, System programming
+- 💬 Ask me about: Web technologies and networking, Clean and scalable code, Software testing, Signal processing
 
 ### My tech stack
 
 <p align="left">
-<code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go_48x48.png" alt="Go" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
+<code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go_48x48.png" alt="Go" width="40" height="40"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nim_logo.svg/356px-Nim_logo.svg.png" alt="Nim" width="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>
