@@ -1,16 +1,13 @@
 ## Hi, I'm Lorenzo  👋
 
+<a href="mailto:lnsdev@proton.me">
+  <img align="left" alt="Professional Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/lorenzodelgado/">
   <img align="left" alt="Lorenzo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a rel="me" href="https://fosstodon.org/@lnsd">
   <img align="left" alt="Lorenzo's Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />
-</a>
-<a href="https://twitter.com/LNSD_es">
-  <img align="left" alt="Lorenzo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:lnsdev@proton.me">
-  <img align="left" alt="Professional Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
 <br>
@@ -20,8 +17,8 @@ I'm a Backend Software Developer based in Valencia, Spain.
 
 - 😄 Pronouns: he/him
 - 🏢 I'm currently working remotely as **Rust Developer** at [@edgeandnode](https://github.com/edgeandnode)
-- 🌱 Learning about: WebAssembly, Rust, Distributed systems, System programming
-- 💬 Ask me about: Web technologies and networking, Clean and scalable code, Software testing, Signal processing
+- 🌱 Learning about: WebAssembly, Distributed systems, System programming
+- 💬 Ask me about: Web technologies and networking, Clean and scalable code, Software testing
 
 ### My tech stack
 
