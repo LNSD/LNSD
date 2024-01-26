@@ -12,7 +12,7 @@
 <br>
 <br>
 
-I'm a Backend Software Developer based in Valencia, Spain.
+I'm a Software engineer based in Valencia, Spain.
 <br>
 
 - 😄 Pronouns: he/him
@@ -20,7 +20,7 @@ I'm a Backend Software Developer based in Valencia, Spain.
 - 🌱 Learning about: WebAssembly, Distributed systems, System programming
 - 💬 Ask me about: Web technologies and networking, Clean and scalable code, Software testing
 
-### My tech stack
+### Tech stack
 
 <p align="left">
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></code>
