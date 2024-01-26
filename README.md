@@ -30,10 +30,8 @@ I'm a Software engineer based in Valencia, Spain.
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins CI" width="40" height="40"/></code>
 </p>
 
 ---
