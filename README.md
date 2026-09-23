@@ -17,7 +17,7 @@ I'm a Software Engineer based in Valencia, Spain.
 
 - 😄 Pronouns: he/him
 - 🏢 I'm currently working remotely as **Rust Developer** at [@edgeandnode](https://github.com/edgeandnode)
-- 🌱 Interested in: System programming, Distributed systems, WebAssembly, Quint
+- 🌱 Interested in: System programming, Distributed systems, Formal verification, Agent-assisted coding
 - 💬 Ask me about: Networking, Distributed Systems, ETL, High quality and scalable code, Software testing
 
 ### Tech stack
