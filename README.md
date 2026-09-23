@@ -25,6 +25,7 @@ I'm a Software Engineer based in Valencia, Spain.
 <p align="left">
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></code>
