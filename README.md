@@ -16,9 +16,9 @@ I'm a Software Engineer based in Valencia, Spain.
 <br>
 
 - 😄 Pronouns: he/him
-- 🏢 I'm currently working remotely as **Rust Developer** at [@graphprotocol](https://github.com/graphprotocol) & [@edgeandnode](https://github.com/edgeandnode)
-- 🌱 Learning about: WebAssembly, Distributed systems, System programming, ETL
-- 💬 Ask me about: Networking, Distributed Systems, Clean and scalable code, Software testing
+- 🏢 I'm currently working remotely as **Rust Developer** at [@edgeandnode](https://github.com/edgeandnode)
+- 🌱 Learning about: System programming, Distributed systems, WebAssembly, Quint
+- 💬 Ask me about: Networking, Distributed Systems, ETL, High quality and scalable code, Software testing
 
 ### Tech stack
 
@@ -32,6 +32,11 @@ I'm a Software Engineer based in Valencia, Spain.
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/wasm/wasm-original.svg" alt="Webassembly" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></code>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Apache%20Arrow-1868F2?style=flat&logo=apachearrow&logoColor=white" alt="Apache Arrow" />
+<img src="https://img.shields.io/badge/Apache%20DataFusion-1868F2?style=flat" alt="Apache DataFusion" />
 </p>
 
 ---
